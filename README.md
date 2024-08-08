@@ -17,4 +17,5 @@
 3. Compiling and Optimizing a Model with TVMC(使用TVMC编译和优化模型)——`user_tutorial/tvmc_command_line_driver.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/compile)
 4. Getting Starting using TVMC Python: a high-level API for TVM(使用TVMC Python入门:TVM的高级API)——`user_tutorial/tvmc_python.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/tvmc_python)
 5. Compiling and Optimizing a Model with the Python Interface(使用Python接口(AutoTV)编译和优化模型)——`user_tutorial/autotvm_relay_x86.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/python_AutoTVM)
-2. Optimizing Operators with Schedule Templates and AutoTVM(用Schedule模板和AutoTVM优化算子)——`python/autotvm-matmul_x86.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/ops_AutoTVM)
+6. Working with Operators using Tensor Expression(使用张量表达式处理算子)——`user_tutorial/tensor_expr_get_started.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/tensor_expr)
+
