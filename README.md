@@ -21,3 +21,5 @@
 7. Optimizing Operators with Schedule Templates and AutoTVM(用 Schedule 模板和 AutoTVM 优化算子)——`user_tutorial/autotvm_matmul_x86.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/ops_AutoTVM)
 8. Optimizing Operators witch Auto-scheduling(使用 Auto-scheduling 优化算子)——`user_tutorial/auto_scheduler_matmul_x86.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/ops_AutoScheduling)
 9. Blitz Course to TensorIR(TensorIR 快速入门)——`user_tutorial/tensor_ir_blitz_course.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/tensorIR)
+10. Cross Compilation and RPC(交叉编译和 RPC)——`user_tutorial/cross_compilation_and_rpc.py`, [中文翻译](https://tvm.hyper.ai/docs/tutorial/rpc)
+11. 
